@@ -9,5 +9,4 @@
 8) Week 7 - SQL
 9) Week 8 - HTML, CSS, JavaScript
 10) Week 9 - Flask
-11) Week 10 - Cybersecurity
-
+11) Final Project
